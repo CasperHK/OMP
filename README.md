@@ -56,10 +56,10 @@ Uses a structured language to control the camera and action.
 ## 🚀 Getting Started
 
 ### For Directors
-1. Initialize: omp init my_movie
-2. Define Assets: Fill identity.omp with your character descriptions.
-3. Write Shots: Use the OMP syntax in the timeline/ folder.
-4. Render: Point your OMP-compliant AI engine to the project root.
+1. **Initialize**: omp init my_movie
+2. **Define Assets**: Fill identity.omp with your character descriptions.
+3. **Write Shots**: Use the OMP syntax in the timeline/ folder.
+4. **Render**: Point your OMP-compliant AI engine to the project root.
 
 ### For Developers (AI Engines)
 To support OMP, your engine must:
@@ -69,8 +69,8 @@ To support OMP, your engine must:
 
 ## 🤝 Contributing
 OpenMoviePrompts is an open-source initiative. We welcome contributions to:
-Lighting_Presets.omp: A library of classic cinematic lighting setups.
-Camera_Library.omp: Standardized movement definitions (Dolly, Pan, Orbit).
+* **Lighting_Presets.omp**: A library of classic cinematic lighting setups.
+* **Camera_Library.omp**: Standardized movement definitions (Dolly, Pan, Orbit).
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
