@@ -1,5 +1,5 @@
 # OpenMoviePrompts (OMP) Standard v1.0
-The Open Standard for Text-Defined Cinema.
+**The Open Standard for Text-Defined Cinema.**
 
 OpenMoviePrompts (OMP) is a structured, version-controlled markdown framework designed to store entire cinematic projects as human-readable, machine-executable code. OMP enables AI video engines to generate high-consistency, ultra-realistic films by reading a standardized project directory rather than a single chaotic prompt.
 
