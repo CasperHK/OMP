@@ -74,4 +74,5 @@ OpenMoviePrompts is an open-source initiative. We welcome contributions to:
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-"The era of text-defining movies starts here."
+
+**"The era of text-defining movies starts here."**
